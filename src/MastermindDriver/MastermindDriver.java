@@ -8,7 +8,7 @@ public class MastermindDriver {
 		MasterMind spel1 = new MasterMind();
 		
 		spel1.spelSpelen();
-		
+		//hallo allemaal!
 	}
 
 }
